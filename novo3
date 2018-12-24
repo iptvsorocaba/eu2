@@ -5,11 +5,11 @@ http:://23.111.162.2/aglobohd2.m3u8?user=310612&token=b13255e8df369bb62a19947afc
 http:://23.111.162.2/agloborj.m3u8?user=310612&token=b4a1cc08437a6e576c128899daa9c212&e=1545703684&bands=956 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/sbt-logo-6EF461E6D3-seeklogo.com.jpg" group-title="CANAL ABERTO",Globo SP 
 http:://23.111.162.2/aglobo.m3u8?user=310612&token=8ddde4182e488a668414c1eabdd475fa&e=1545703684&bands=956 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/sbt-logo-6EF461E6D3-seeklogo.com.jpg" group-title="CANAL ABERTO",EPTV São Carlos 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/sbt-logo-6EF461E6D3-seeklogo.com.jpg" group-title="CANAL ABERTO",EPTV SÃ£o Carlos 
 http:://23.111.162.2/agloboeptvsaocarlos.m3u8?user=310612&token=e51705c52362048f295bc73ec01c00e3&e=1545703684&bands=956 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/sbt-logo-6EF461E6D3-seeklogo.com.jpg" group-title="CANAL ABERTO",RPC TV 
 http:://23.111.162.2/aglobocuritiba.m3u8?user=310612&token=63ccd92d4dc4b0038139d66a150b3a9f&e=1545703684&bands=956 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/sbt-logo-6EF461E6D3-seeklogo.com.jpg" group-title="CANAL ABERTO",TV Liberal Belém 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/sbt-logo-6EF461E6D3-seeklogo.com.jpg" group-title="CANAL ABERTO",TV Liberal BelÃ©m 
 http:://23.111.162.2/aglobobelem.m3u8?user=310612&token=262827a54294ce02ccd0cfc49ad35462&e=1545703684&bands=956 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/sbt-logo-6EF461E6D3-seeklogo.com.jpg" group-title="CANAL ABERTO",Inter TV Cabugi 
 http:://23.111.162.2/aglobocabugi.m3u8?user=310612&token=dd6253d6fcff5a5d14a970bfe66bed18&e=1545703684&bands=956 
