@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",1 - Globo RJ HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo RJ HD
 http://23.111.162.2/aglobohd2.m3u8?user=310612&token=3f982d082844b574e3c1844c25f12a64&e=1545775929&bands=956
-#EXTINF:0 tvg-id="Globorj.br" group-title="Channels",2 - Globo RJ
+#EXTINF:0 tvg-id="Globorj.br" group-title="Channels",Globo RJ
 http://23.111.162.2/agloborj.m3u8?user=310612&token=131b76e565f2e2f25d2f33003b5b23d4&e=1545775929&bands=956
-#EXTINF:0 tvg-id="ext" group-title="Channels",3 - Globo SP
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo SP
 http://23.111.162.2/aglobo.m3u8?user=310612&token=fffea27bf827ca9dfa04ba6c722afffc&e=1545775929&bands=956
-#EXTINF:0 tvg-id="ext" group-title="Channels",4 - EPTV São Carlos
+#EXTINF:0 tvg-id="ext" group-title="Channels",EPTV São Carlos
 http://23.111.162.2/agloboeptvsaocarlos.m3u8?user=310612&token=71bb5e5443c209ef951298a2a8964d19&e=1545775929&bands=956
 #EXTINF:0 tvg-id="ext" group-title="Channels",5 - RPC TV
 http://23.111.162.2/aglobocuritiba.m3u8?user=310612&token=50abd8d242ecb054e8b35f7c5fce58ef&e=1545775929&bands=956
