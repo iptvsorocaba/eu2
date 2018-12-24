@@ -1,17 +1,475 @@
-#EXTM3U 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/sbt-logo-6EF461E6D3-seeklogo.com.jpg" group-title="CANAL ABERTO",Globo RJ HD 
-http:://23.111.162.2/aglobohd2.m3u8?user=310612&token=b13255e8df369bb62a19947afce35db0&e=1545703684&bands=956 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/sbt-logo-6EF461E6D3-seeklogo.com.jpg" group-title="CANAL ABERTO",Globo RJ 
-http:://23.111.162.2/agloborj.m3u8?user=310612&token=b4a1cc08437a6e576c128899daa9c212&e=1545703684&bands=956 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/sbt-logo-6EF461E6D3-seeklogo.com.jpg" group-title="CANAL ABERTO",Globo SP 
-http:://23.111.162.2/aglobo.m3u8?user=310612&token=8ddde4182e488a668414c1eabdd475fa&e=1545703684&bands=956 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/sbt-logo-6EF461E6D3-seeklogo.com.jpg" group-title="CANAL ABERTO",EPTV São Carlos 
-http:://23.111.162.2/agloboeptvsaocarlos.m3u8?user=310612&token=e51705c52362048f295bc73ec01c00e3&e=1545703684&bands=956 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/sbt-logo-6EF461E6D3-seeklogo.com.jpg" group-title="CANAL ABERTO",RPC TV 
-http:://23.111.162.2/aglobocuritiba.m3u8?user=310612&token=63ccd92d4dc4b0038139d66a150b3a9f&e=1545703684&bands=956 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/sbt-logo-6EF461E6D3-seeklogo.com.jpg" group-title="CANAL ABERTO",TV Liberal Belém 
-http:://23.111.162.2/aglobobelem.m3u8?user=310612&token=262827a54294ce02ccd0cfc49ad35462&e=1545703684&bands=956 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/sbt-logo-6EF461E6D3-seeklogo.com.jpg" group-title="CANAL ABERTO",Inter TV Cabugi 
-http:://23.111.162.2/aglobocabugi.m3u8?user=310612&token=dd6253d6fcff5a5d14a970bfe66bed18&e=1545703684&bands=956 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/sbt-logo-6EF461E6D3-seeklogo.com.jpg" group-title="CANAL ABERTO",TV Anhanguera GO 
-http:://23.111.162.2/aglobogo.m3u8?user=310612&token=a6394291ffc4fcf13ec121093da75c59&e=1545703684&bands=956 
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",1 - Globo RJ HD
+http://23.111.162.2/aglobohd2.m3u8?user=310612&token=3f982d082844b574e3c1844c25f12a64&e=1545775929&bands=956
+#EXTINF:0 tvg-id="Globorj.br" group-title="Channels",2 - Globo RJ
+http://23.111.162.2/agloborj.m3u8?user=310612&token=131b76e565f2e2f25d2f33003b5b23d4&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",3 - Globo SP
+http://23.111.162.2/aglobo.m3u8?user=310612&token=fffea27bf827ca9dfa04ba6c722afffc&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",4 - EPTV São Carlos
+http://23.111.162.2/agloboeptvsaocarlos.m3u8?user=310612&token=71bb5e5443c209ef951298a2a8964d19&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",5 - RPC TV
+http://23.111.162.2/aglobocuritiba.m3u8?user=310612&token=50abd8d242ecb054e8b35f7c5fce58ef&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",6 - TV Liberal Belém
+http://23.111.162.2/aglobobelem.m3u8?user=310612&token=0354ed2f675d91869adb7963f2b0b546&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",7 - Inter TV Cabugi
+http://23.111.162.2/aglobocabugi.m3u8?user=310612&token=6d1b97dd92ede668ce91e54d905a56eb&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",8 - TV Anhanguera GO
+http://23.111.162.2/aglobogo.m3u8?user=310612&token=585086387c0f22e588c67bd10631489e&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",9 - TV Verdes Mares
+http://23.111.162.2/agloboverdes.m3u8?user=310612&token=8c5075c964de3f998bda6a4eef910dc9&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",10 - TV Globo Bahia
+http://23.111.162.2/aglobobahia.m3u8?user=310612&token=c375e8945e41263c92932f51f4a6fbfc&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",11 - Rede Amazônica
+http://23.111.162.2/agloboamazonica.m3u8?user=310612&token=5baf316e31e7df8ebb679a3d959182d9&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",12 - EPTV Ribeirão Preto
+http://23.111.162.2/agloboeptvrp.m3u8?user=310612&token=fefbde340ca8ff3e9a6a513339de10ca&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",13 - Globo Nordeste
+http://23.111.162.2/agloborecife.m3u8?user=310612&token=6ae6a27afe047204afbbcdfff1e1510b&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",14 - RBS TV
+http://23.111.162.2/arbs.m3u8?user=310612&token=380e9508aced5f710595408b438e1e3c&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",15 - TV Tem Sorocaba
+http://23.111.162.2/aglobospso.m3u8?user=310612&token=dddb894d675269645c609e8f324c9b5c&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",16 - EPTV Campinas
+http://23.111.162.2/agloboeptvcampinas.m3u8?user=310612&token=719e38b8fdd5f908596cd348fb962a24&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",17 - TV Tem Bauru
+http://23.111.162.2/aglobospba.m3u8?user=310612&token=b0ee941a93e9a65af0e3b3e33800f1dc&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",18 - Band HD
+http://23.111.162.2/abandhd.m3u8?user=310612&token=5030fc81ccb27cac2434859af7cd2f74&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",19 - Band
+http://23.111.165.178/aband.m3u8?user=310612&token=ccbd69551e305f391267d7fb30f773ac&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",20 - SBT HD
+http://23.111.162.2/asbthd.m3u8?user=310612&token=fd92cc4377850131428f6d6539359676&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",21 - Record HD
+http://23.111.162.2/arecordhd.m3u8?user=310612&token=a001e55cee467df39a4da8dce1c5c6c3&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",22 - SBT
+http://23.111.165.178/asbt.m3u8?user=310612&token=c86d9bf63cdad35e8549c85173fe83ca&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",23 - Record
+http://23.111.165.178/arecord.m3u8?user=310612&token=076fa170641ccf97141ddbf765625971&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",24 - Rede TV HD
+http://23.111.162.2/aredetvhd.m3u8?user=310612&token=65a9777e0e1b345de21c1a3aa7f01051&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",25 - Rede TV
+http://23.111.165.178/aredetv.m3u8?user=310612&token=f6fea8e635a891550ab4ba9b4b161b58&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",26 - Canal Brasil HD
+http://23.111.162.2/acanalbrasilhd.m3u8?user=310612&token=fffe5d4c8f0009dbf8aada463616a69e&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",27 - Canal Brasil
+http://23.111.165.178/acanalbrasil.m3u8?user=310612&token=d8647b1ee42aeb46e34612e8212d4b8f&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",28 - NBR
+http://23.111.165.178/anbr.m3u8?user=310612&token=836048ae402f764a3a2140a08679d4d5&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",29 - Futura
+http://23.111.165.178/afutura.m3u8?user=310612&token=096e6901d7a6804af11e6072bf00d584&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",30 - TV Brasil
+http://23.111.165.178/atvbrasil.m3u8?user=310612&token=bb2a1da15e50c02d8cdd767e7dec93fe&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",31 - TV Cultura
+http://23.111.165.178/acultura.m3u8?user=310612&token=9b1c2d9da6edfc6d5f3fba5c61933369&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",32 - Canal Rural
+http://23.111.165.178/acanalrural.m3u8?user=310612&token=29d06c7eaa556c24d29b68903a01a851&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",33 - Rede Brasil
+http://23.111.165.178/aredebrasil.m3u8?user=310612&token=05d0f8a9f74f9f5bf3588f3c38b627b3&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",34 - Terra Viva
+http://23.111.165.178/aterraviva.m3u8?user=310612&token=c6f20b7dae2bd4d603cb09d2f22ffd31&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",35 - Telecine Premium HD
+http://23.111.162.2/ftcpremiumhd.m3u8?user=310612&token=a29ad1efcd251b8591827a439afbe411&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",36 - Telecine Premium
+http://23.111.165.178/ftcpremium.m3u8?user=310612&token=2ae94572cb101c454614d9dc311e3f03&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",37 - Telecine Action HD
+http://23.111.162.2/ftcactionhd.m3u8?user=310612&token=3073abc2f08880ffdc2751a3f3057a0b&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",38 - Telecine Action
+http://23.111.165.178/ftcaction.m3u8?user=310612&token=3bc1d00821bddc8534135b727b0605a7&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",39 - Telecine Pipoca HD
+http://23.111.162.2/ftcpipocahd.m3u8?user=310612&token=d404d366410e52169d85fca0ef079afd&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",40 - Telecine Pipoca
+http://23.111.165.178/ftcpipoca.m3u8?user=310612&token=031dd73cecaedd5b8a4c44eadb0d26cc&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",41 - Telecine Fun HD
+http://23.111.162.2/ftcfunhd.m3u8?user=310612&token=dd5af832451e9fe9e35d32d0ceb4e52f&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",42 - Telecine Fun
+http://23.111.165.178/ftcfun.m3u8?user=310612&token=f8dbed77b26c8efeafcde1dc7fbd018b&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",43 - Telecine Touch HD
+http://23.111.162.2/ftctouchhd.m3u8?user=310612&token=12a6c833afc0756afde42a440e9580e3&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",44 - Telecine  Touch
+http://23.111.165.178/ftctouch.m3u8?user=310612&token=cdeae243ffc0b836d79cb5f9897b642d&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",45 - Telecine Cult HD
+http://23.111.162.2/ftcculthd.m3u8?user=310612&token=c15b47d1c209d335f544fc0560974963&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",46 - Telecine Cult
+http://23.111.165.178/ftccult.m3u8?user=310612&token=f5a74d14e0e21d0bad0d34db931e26d6&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",47 - HBO HD
+http://23.111.162.2/fhbohd.m3u8?user=310612&token=1e54f6e844669bcf559c5cf7dfd33acd&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",48 - HBO
+http://23.111.165.178/fhbo.m3u8?user=310612&token=62fc35a35593af16fc22f3d81069d1ef&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",49 - HBO 2 HD
+http://23.111.162.2/fhbo2hd.m3u8?user=310612&token=d22a573b998f37331967b90cecf827b9&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",50 - HBO 2
+http://23.111.165.178/fhbo2.m3u8?user=310612&token=fcdcf02cb6b52f2e4706ba8eff90b06e&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",51 - HBO Signature HD
+http://23.111.162.2/fhbosignaturehd.m3u8?user=310612&token=907201bf5eaf4e4f2d78dd8caf699c5e&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",52 - HBO Signature
+http://23.111.165.178/fhbosignature.m3u8?user=310612&token=6dec1e259e1c9193faa114c9eeb0bfff&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",53 - HBO Plus HD
+http://23.111.162.2/fhboplushd.m3u8?user=310612&token=5ecaba9a8d5b7393b79caff0366e56d8&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",54 - HBO Plus
+http://23.111.165.178/fhboplus.m3u8?user=310612&token=10e6f4aa93bfdf5c155a167011a904d5&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",55 - HBO Family HD
+http://23.111.162.2/fhbofamilyhd.m3u8?user=310612&token=23b1ab15519c0ea65c3929ad421c7a73&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",56 - HBO Familly
+http://23.111.165.178/fhbofamilly.m3u8?user=310612&token=a89ccc51b3f9eea0d5268eb0d39a5b4c&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",57 - HBO Plus e
+http://23.111.165.178/fhbopluse.m3u8?user=310612&token=542aa1081ed323b1aa0f3fbec07a7264&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",58 - FOX HD
+http://23.111.162.2/ffoxhd.m3u8?user=310612&token=6485df66fc49b9ffb5269fec12c340b7&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",59 - FOX
+http://23.111.165.178/ffox.m3u8?user=310612&token=4d510f14e615bfa2b766c29cb4c1343b&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",60 - Fox Premium 1
+http://23.111.165.178/ffox1hd.m3u8?user=310612&token=294f9082771b7893aa759016f1b82826&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",61 - Fox Premium 2
+http://23.111.165.178/ffoxactionhd.m3u8?user=310612&token=c2eede887862c416faaa6c678d9c671a&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",62 - TNT HD
+http://23.111.162.2/ftnthd.m3u8?user=310612&token=3d9ec0cfe09fefa2da469608d02b1fbc&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",63 - TNT
+http://23.111.165.178/ftnt.m3u8?user=310612&token=ea534ed2ca419b1b44f9f214428fedb2&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",64 - TNT Series HD
+http://23.111.162.2/ftntserieshd.m3u8?user=310612&token=d3eae9e6392d35a780d13c4e58d05335&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",65 - TNT Series
+http://23.111.165.178/ftntseries.m3u8?user=310612&token=74d34668e219e8ca50c5eb838e772eb2&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",66 - Cinemax HD
+http://23.111.162.2/fcinemaxhd.m3u8?user=310612&token=846995dea49970028e92ceb352542d9d&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",67 - Cinemax
+http://23.111.165.178/fcinemax.m3u8?user=310612&token=bc5f7c4651ce2980e1b3784475f8141e&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",68 - MAX HD
+http://23.111.162.2/fmaxhd.m3u8?user=310612&token=9ec6d12e09795980b0e5d384ba225cd1&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",69 - MAX
+http://23.111.165.178/fmax.m3u8?user=310612&token=eb44e3e2c5234319e7c6a73cf10d5859&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",70 - MAX UP HD
+http://23.111.162.2/fmaxuphd.m3u8?user=310612&token=f29abb96599063878b328588443b95fd&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",71 - MAX UP
+http://23.111.165.178/fmaxup.m3u8?user=310612&token=b3e4f2331ee690309748de919158fc84&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",72 - Max Prime HD
+http://23.111.162.2/fmaxprimehd.m3u8?user=310612&token=5bf7d54ea71d5c3be2a13afaec6bcb14&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",73 - Max Prime
+http://23.111.165.178/fmaxprime.m3u8?user=310612&token=0327e60c74880c9fb5e91ea62da5edc4&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",74 - Max Prime e
+http://23.111.165.178/fmaxprimee.m3u8?user=310612&token=e8c5ccf7c0ef74eb74e262e077525f36&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",75 - AMC HD
+http://23.111.162.2/famchd.m3u8?user=310612&token=073055a10a0bece44f87c610ef9b4b34&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",76 - AMC
+http://23.111.165.178/famc.m3u8?user=310612&token=e7f77cddacbd0f97da8d532d0ded122f&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",77 - Syfy HD
+http://23.111.162.2/fsyfyhd.m3u8?user=310612&token=ebe11e66840247c3cc2bfcc6d22f55da&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",78 - SyFy
+http://23.111.165.178/fsyfy.m3u8?user=310612&token=00dea0a4576fc2cc0f7d5a34b954dbae&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",79 - Studio Universal HD
+http://23.111.162.2/fstudiouniversalhd.m3u8?user=310612&token=8c1a4d613a1657b453bff70cf6d1c99d&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",80 - Studio Universal
+http://23.111.165.178/fstudiouniversal.m3u8?user=310612&token=ddfc549e85cf1fd422841c55ea8c54f8&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",81 - TBS HD
+http://23.111.162.2/ftbshd.m3u8?user=310612&token=daa96c6e9f86b9b9c55fea6734cbca86&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",82 - TBS
+http://23.111.165.178/ftbs.m3u8?user=310612&token=faa0d8d4a5431ef796e956bc17500706&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",83 - Mais Globosat HD
+http://23.111.162.2/fmaisglobosathd.m3u8?user=310612&token=4c994ddf30ccd3ac8ad493fd5666589e&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",84 - Mais Globosat
+http://23.111.165.178/fmaisglobosat.m3u8?user=310612&token=894715133c748ec42ccfeb083f026cf3&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",85 - Universal Channel HD
+http://23.111.162.2/funiversalhd.m3u8?user=310612&token=8304530e96dbb2b42cdb3ebd84b39dab&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",86 - Universal Channel
+http://23.111.165.178/funiversalchanel.m3u8?user=310612&token=e1966bafb799172ba15a2228e4f56f97&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",87 - Megapix HD
+http://23.111.162.2/fmegapixhd.m3u8?user=310612&token=48d9666ca83061fb9205fc9d63ef6f4a&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",88 - Megapix
+http://23.111.165.178/fmegapix.m3u8?user=310612&token=f246862099fec1f4f5009fc7394cabab&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",89 - Space HD
+http://23.111.162.2/fspacehd.m3u8?user=310612&token=95eef598e549a7237bb6c56044b42f42&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",90 - Space
+http://23.111.165.178/fspace.m3u8?user=310612&token=f42836e98f5a0cb22a9dc3c0bc0df60b&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",91 - Warner HD
+http://23.111.162.2/fwarnerhd.m3u8?user=310612&token=20966d8e7b813f704157abe9c9038931&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",92 - Warner
+http://23.111.165.178/fwarner.m3u8?user=310612&token=9e069b252d8da5f91cf129a1f2a7cdd0&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",93 - Paramount HD
+http://23.111.162.2/fparamounthd.m3u8?user=310612&token=967d94661204a4205e32309c5dc89bc0&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",94 - Paramount
+http://23.111.165.178/fparamount.m3u8?user=310612&token=781a3742f276d0a721aa9497e20f84e9&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",95 - Sony HD
+http://23.111.162.2/fcanalsonyhd.m3u8?user=310612&token=c7cc2d92c81bd5bf7e51b313c1ea8f60&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",96 - Sony
+http://23.111.165.178/fsony.m3u8?user=310612&token=3220136b938f9eed7c0228e5633ab42a&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",97 - AXN HD
+http://23.111.162.2/faxnhd.m3u8?user=310612&token=8de6ff11964706642ef81329009cf9d8&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",98 - AXN
+http://23.111.165.178/faxn.m3u8?user=310612&token=c511ff4c2c6e17b4840f92055e5f768f&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",99 - FX HD
+http://23.111.162.2/ffxhd.m3u8?user=310612&token=1e5fa858c661c04704dcf6923153c16d&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",100 - FX
+http://23.111.165.178/ffx.m3u8?user=310612&token=69645e6d5a5cc1537b2442ed8129f25c&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",101 - Comedy Central
+http://23.111.165.178/fcomedycentral.m3u8?user=310612&token=7a6e8351b3c7b33f53a31c101b63a6aa&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",102 - iSAT
+http://23.111.165.178/fisat.m3u8?user=310612&token=aa7a52b791cc704ad1f8b1e3a9a19837&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",103 - Prime Box Brasil
+http://23.111.165.178/fprimeboxbrasil.m3u8?user=310612&token=af5240a30fba74dad7b75d80a23b19c0&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",104 - TCM
+http://23.111.165.178/ftcm.m3u8?user=310612&token=de20e9fefbd69e3a132edb3e7c550fac&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",105 - Sportv HD
+http://23.111.162.2/esportvhd.m3u8?user=310612&token=4ef65938aa1b4407afffe41065b61ba9&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",106 - SporTV
+http://23.111.165.178/esportv.m3u8?user=310612&token=cdb79df3ee316a77a9826e1547049dc0&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",107 - Sportv 2 HD
+http://23.111.162.2/esportv2hd.m3u8?user=310612&token=d04b3e64b94bf2bb617cb6fd1212547f&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",108 - SporTV2
+http://23.111.165.178/esportv2.m3u8?user=310612&token=ae910de57992dd14188a23743a0a3e6b&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",109 - Sportv 3 HD
+http://23.111.162.2/esportv3hd.m3u8?user=310612&token=85cfc5b830e7b762f266132dc519d62e&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",110 - SporTV3
+http://23.111.165.178/esportv3.m3u8?user=310612&token=2652077e1e52e7661ba8f3cd819f185e&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",111 - ESPN HD
+http://23.111.162.2/eespnhd.m3u8?user=310612&token=bf1ddc3155f448657b3a1650a2aaba1f&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",112 - ESPN
+http://23.111.165.178/eespn.m3u8?user=310612&token=716202fd4e0d92a181eb0a7e8ccc148b&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",113 - ESPN 2 HD
+http://23.111.162.2/eespn2hd.m3u8?user=310612&token=bdbdf9c965b9fdaed60628bf3963badb&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",114 - ESPN Brasil HD
+http://23.111.162.2/eespnbrhd.m3u8?user=310612&token=f7ade1dda4a516401c16bac42e88a52e&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",115 - ESPN Brasil
+http://23.111.165.178/eespnbr.m3u8?user=310612&token=478406e809f67193bfcf0a0ad7abe9e9&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",116 - ESPN + HD
+http://23.111.162.2/eespnplushd.m3u8?user=310612&token=11c8905d3a0605e6a860e0c42813c468&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",117 - ESPN +
+http://23.111.165.178/eespnplus.m3u8?user=310612&token=1501473b5c9260bf9c30572118010443&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",118 - Fox Sport HD
+http://23.111.162.2/efoxsporthd.m3u8?user=310612&token=eb2b00eb6bd8907b001a24ac62f43b21&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",119 - Fox Sports
+http://23.111.165.178/efoxsports.m3u8?user=310612&token=403fe4c094ab6b5e0bb48597557ac818&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",120 - Fox Sport 2 HD
+http://23.111.162.2/efoxsport2hd.m3u8?user=310612&token=ae40842872448d47d408466bbb2ccbc2&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",121 - Fox Sports 2
+http://23.111.165.178/efoxsport2.m3u8?user=310612&token=7cf6aaffbb3ae7a691646d23deba95b3&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",122 - Off HD
+http://23.111.162.2/eoffhd.m3u8?user=310612&token=203be1c18d652bff8330e2a742f66db5&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",123 - Off
+http://23.111.165.178/ecanaloff.m3u8?user=310612&token=c59a26530a6ced62e6b2f09bc40ad931&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",124 - Band Sport HD
+http://23.111.162.2/ebandsporthd.m3u8?user=310612&token=01522de89f15f46f3dce7ec178c957fa&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",125 - Band Sports
+http://23.111.165.178/ebandsports.m3u8?user=310612&token=172e151794ee40895031e9fca57e9647&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",126 - WooHoo
+http://23.111.165.178/ewoohoo.m3u8?user=310612&token=c7611cd987c04a2959a0f72b2b6c538a&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",127 - Combate HD
+http://23.111.162.2/pcombatehd.m3u8?user=310612&token=cc745dc3341e5b27c3d6cc423fbeea28&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",128 - Combate
+http://23.111.165.178/pcombate.m3u8?user=310612&token=8858c91ea7926b454c12fd42035c8310&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",129 - Premiere Clubes HD
+http://23.111.162.2/ppremiereclubshd.m3u8?user=310612&token=87d0ac20971f0292d2a5637dfff808a3&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",130 - Premiere Clubes
+http://23.111.165.178/ppremiereclubs.m3u8?user=310612&token=b4b46de5d83fdc7b8757a4f79f61f034&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",131 - Premiere 2 HD
+http://23.111.162.2/ppremiere2hd.m3u8?user=310612&token=917c1a85181ad05f955045f1722970bc&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",132 - Premiere 2
+http://23.111.165.178/ppremiere2.m3u8?user=310612&token=eae19b4cbb39427b2df7e4a0fff3ba0b&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",133 - Premiere 3 HD
+http://23.111.162.2/ppremiere3hd.m3u8?user=310612&token=6f7a57d346dfd6757cb62b5ea33e4f4f&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",134 - Premiere 3
+http://23.111.165.178/ppremiere3.m3u8?user=310612&token=559ee927dd8dd6f47389b2a32f355978&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",135 - Premiere 4 HD
+http://23.111.162.2/ppremiere4hd.m3u8?user=310612&token=62c8cae3c19e72200905a44d58146977&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",136 - Premiere 4
+http://23.111.165.178/ppremiere4.m3u8?user=310612&token=c6182b7d4dc89376e0855dad30b81c83&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",137 - Premiere 5 HD
+http://23.111.162.2/ppremiere5hd.m3u8?user=310612&token=07cacd560650692c56e15c7d9fb5f5f2&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",138 - Premiere 5
+http://23.111.165.178/ppremiere5.m3u8?user=310612&token=724b80563a3fa43d7915e1ec43d91b5a&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",139 - Premiere 6 HD
+http://23.111.162.2/ppremiere6hd.m3u8?user=310612&token=5db27c6b7e4b2d1be5152b858ee9219c&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",140 - Premiere 6
+http://23.111.165.178/ppremiere6.m3u8?user=310612&token=6dbe2b28d456de94d3d212cddff942da&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",141 - Premiere 7 HD
+http://23.111.162.2/ppremiere7hd.m3u8?user=310612&token=b529d7f51236677511602f17182c9d12&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",142 - Premiere 7
+http://23.111.165.178/ppremiere7.m3u8?user=310612&token=03f38a4d9810d84485acce663b362dac&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",143 - Premiere 8
+http://23.111.165.178/ppremiere8.m3u8?user=310612&token=1fb7d3fe46192ba298d0c9aab0188977&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",144 - A&E HD
+http://23.111.162.2/vaehd.m3u8?user=310612&token=4f016502e641b9963bc7eb9cf2795577&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",145 - A&E
+http://23.111.165.178/vae.m3u8?user=310612&token=54b90a8726d47311b0c5a27ad97800a7&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",146 - Bis HD
+http://23.111.162.2/vbishd.m3u8?user=310612&token=a635ad764a04130db40feb9061cd0e0c&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",147 - Bis
+http://23.111.165.178/vbis.m3u8?user=310612&token=670c33873b49eadb1a4efe422e7860a4&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",148 - E! HD
+http://23.111.162.2/venterteinementhd.m3u8?user=310612&token=61842a6ad875c6ca996e3cdb3bf3ac94&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",149 - E!
+http://23.111.165.178/venterteinement.m3u8?user=310612&token=42b32c7e7cf557950a3e427a55f81997&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",150 - Fox Life HD
+http://23.111.162.2/vfoxlifehd.m3u8?user=310612&token=a35b8bcbc0612c663e28eeed3b2d04d2&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",151 - Fox Life
+http://23.111.165.178/vfoxlife.m3u8?user=310612&token=1281a9bb9d0e28eafd02e6bf9937ff5f&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",152 - GNT HD
+http://23.111.162.2/vgnthd.m3u8?user=310612&token=7071c7f5268d5fceb05bcb63bc342525&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",153 - GNT
+http://23.111.165.178/vgnt.m3u8?user=310612&token=dd750fa0386795f75267848a7e934f3a&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",154 - Lifetime HD
+http://23.111.162.2/vlifetimehd.m3u8?user=310612&token=cfdd7d5ba558a35cb5256359e9c7cdb2&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",155 - Lifetime
+http://23.111.165.178/vlifetime.m3u8?user=310612&token=52d523907f51da7b2e69d55c1a9a369f&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",156 - Multishow HD
+http://23.111.162.2/vmultishowhd.m3u8?user=310612&token=9faa29aa441549ed645da1b746a6c870&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",157 - Multishow
+http://23.111.165.178/vmultishow.m3u8?user=310612&token=574d886fd1b105bbc264dd065cb70ee1&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",158 - MTV HD
+http://23.111.162.2/vmtvhd.m3u8?user=310612&token=9d0fba95a4b7af512e56583c5e530f3e&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",159 - MTV
+http://23.111.165.178/vmtv.m3u8?user=310612&token=a17e638906b261215dd929453b046ebd&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",160 - TLC HD
+http://23.111.162.2/vtlchd.m3u8?user=310612&token=52ac77c0f6f50be1468da56d3534ac8a&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",161 - TLC
+http://23.111.165.178/vtlc.m3u8?user=310612&token=982438843e8e0da90eb93f72478bbefc&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",162 - Viva HD
+http://23.111.162.2/vvivahd.m3u8?user=310612&token=cb7f3aef98ab78caff38cc580b6b7ebf&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",163 - VIVA
+http://23.111.165.178/vviva.m3u8?user=310612&token=68a389b744c6714bbb29d12f774892f9&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",164 - VH 1 HD
+http://23.111.162.2/vvh1hd.m3u8?user=310612&token=4424357b514ec815f63ff18c9a217984&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",165 - VH1 Mega Hits
+http://23.111.165.178/vvh1megahits.m3u8?user=310612&token=439157252fc3a9e34f8c3b31c9b73cf6&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",166 - Curta!
+http://23.111.165.178/vcurta.m3u8?user=310612&token=fc0f7434e733263dd9ffa332fedaaa09&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",167 - Arte 1
+http://23.111.165.178/varte1.m3u8?user=310612&token=22448db2b48cf5c4dfbfd0ea1738aa92&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",168 - Music Box Brasil
+http://23.111.165.178/vmusicboxbrasil.m3u8?user=310612&token=0bf5e416d37b38c9a0da5dfb9fd41d89&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",169 - Play TV
+http://23.111.165.178/vplaytv.m3u8?user=310612&token=aca2442ce711c2bceb42f0c016be7507&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",170 - Animal Planet HD
+http://23.111.162.2/danimalplanethd.m3u8?user=310612&token=01154fce5c55cde8b162d10845e84fbd&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",171 - Animal Planet
+http://23.111.165.178/danimalplanet.m3u8?user=310612&token=7b1f53771c0cdbe0109d0d185caa4f58&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",172 - Discovery Civilization HD
+http://23.111.162.2/ddicoverycivilizationhd.m3u8?user=310612&token=908c4f477f75f40b58bcff4f543df4ba&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",173 - Discovery Science HD
+http://23.111.162.2/ddiscsciensehd.m3u8?user=310612&token=9d88c180a1d623aab4c9eb20874a0997&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",174 - Discovery Channel HD
+http://23.111.162.2/ddiscoverychannelhd.m3u8?user=310612&token=f599a6dd450c50ec0440fff0b4f6f457&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",175 - Discovery Channel
+http://23.111.165.178/ddiscovery.m3u8?user=310612&token=2c3aae459204c99cb6efbae92ffcf49c&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",176 - Discovery Home & Health HD
+http://23.111.162.2/dhomehealthhd.m3u8?user=310612&token=8e5067b9b6f4ef873bf5ead69f47f4f6&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",177 - Discovery Home & Health
+http://23.111.165.178/dhomehealth.m3u8?user=310612&token=3d57b0d122e3e35284e86fe38dbf1a3f&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",178 - Discovery Turbo HD
+http://23.111.162.2/dturbohd.m3u8?user=310612&token=ce597ca48bf611eb27a970d5862724f5&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",179 - Discovery Turbo
+http://23.111.165.178/ddiscoveryturbo.m3u8?user=310612&token=6a4b20c7131770713ac59a7de62bfd36&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",180 - Discovery Theater HD
+http://23.111.162.2/ddiscoverytheaterhd.m3u8?user=310612&token=9c11ef85d961be9cec8cdaa3602b8479&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",181 - Discovery World HD
+http://23.111.162.2/ddiscoveryworldhd.m3u8?user=310612&token=14327e0af2f6169669b8cf8de3c7dbb1&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",182 - Investigação Discovery HD
+http://23.111.162.2/dinvestigacaohd.m3u8?user=310612&token=a31e068edeba45c4b195868ef8cc4e00&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",183 - Investigação Discovery
+http://23.111.165.178/dinvestigacao.m3u8?user=310612&token=b3c0497f2b3d50dd490bc063dd1fb5d1&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",184 - History HD
+http://23.111.162.2/dhistoryhd.m3u8?user=310612&token=fd04b3b626a3bd3411708274f9b2e93b&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",185 - History
+http://23.111.165.178/dhistory.m3u8?user=310612&token=da02d221d9d2551f224a9cb0c50f7d58&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",186 - H2 HD
+http://23.111.162.2/dh2hd.m3u8?user=310612&token=b52ca2a329572cb077d48390a2986271&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",187 - H2
+http://23.111.165.178/dh2.m3u8?user=310612&token=5249977ddf0a41268afadadd75624ec4&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",188 - Nat Geo HD
+http://23.111.162.2/dnatgeohd.m3u8?user=310612&token=3fea8191fb5000d8ab69535c07e4c9cf&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",189 - Nat Geo
+http://23.111.165.178/dnatgeo.m3u8?user=310612&token=056f4ec971526bdbba55aee6b7c7c830&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",190 - Nat Geo Wild HD
+http://23.111.162.2/dnatgeowildhd.m3u8?user=310612&token=0717d6c814feebe59ba2964fe2cc3bbe&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",191 - Nat Geo Wild
+http://23.111.165.178/dnatgeowild.m3u8?user=310612&token=317ac085e37b6e3931ef52439bc8e3b7&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",192 - Food Network HD
+http://23.111.162.2/dfoodhd.m3u8?user=310612&token=09b03a2b21a5c035d4af5b84782da8a7&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",193 - Food Network
+http://23.111.165.178/vfood.m3u8?user=310612&token=1c3f0da66a63accf1a4af131975a600c&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",194 - Fish TV
+http://23.111.165.178/dfishtv.m3u8?user=310612&token=857c41548a72e80d9390ff0dd187e09f&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",195 - Tru TV
+http://23.111.165.178/dtrutv.m3u8?user=310612&token=5d85fd215a03d2dd720cb3ccdd62fa01&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",196 - Cartoon Network HD
+http://23.111.162.2/icartoonhd.m3u8?user=310612&token=83adadd16fc0106309e9ccd3cf41381f&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",197 - Cartoon Network
+http://23.111.165.178/icartoonnetwork.m3u8?user=310612&token=926340e15bbc3fc49db2ecbb8d03bb8c&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",198 - Discovery Kids HD
+http://23.111.162.2/idkidshd.m3u8?user=310612&token=78d783bb59422323498c2b228b4fb9fb&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",199 - Discovery Kids
+http://23.111.165.178/idiscoverykids.m3u8?user=310612&token=b648effbd1c0fab8d0f7ff9ef560243b&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",200 - Disney Channel HD
+http://23.111.162.2/idisneychannelhd.m3u8?user=310612&token=5746b2712e8c62e3643750091c74cb6e&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",201 - Disney
+http://23.111.165.178/idisney.m3u8?user=310612&token=45a2ffde145484694ff8b7d245a2009d&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",202 - Gloob HD
+http://23.111.162.2/igloobhd.m3u8?user=310612&token=8f939dda37967d2cff6af178cb6c5353&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",203 - Gloob
+http://23.111.165.178/igloob.m3u8?user=310612&token=5f6b2bc5fe6c8cb73dc87b1798382106&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",204 - Nat Geo Kids HD
+http://23.111.162.2/inatgeokidshd.m3u8?user=310612&token=93cf7935dfad4bc1020250ff4b29ebd2&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",205 - Nat Geo Kids
+http://23.111.165.178/inatgeokids.m3u8?user=310612&token=3c6db7b1629e9c4170b15d982759e2a8&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",206 - Nick Jr. HD
+http://23.111.162.2/inickjrhd.m3u8?user=310612&token=ecd8e032dae6d383a0ccb8ec385425ad&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",207 - Nick Jr.
+http://23.111.165.178/inickjr.m3u8?user=310612&token=ee07fc558a2fdb2c1c5b787187344b1c&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",208 - Nickelodeon
+http://23.111.165.178/inickelodeon.m3u8?user=310612&token=09e5ebcd97af8413f2e53626b24639ee&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",209 - Nickelodeon HD
+http://23.111.162.2/inickelodeonhd.m3u8?user=310612&token=05e048a70a63e4f2053d607edce99289&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",210 - Baby TV
+http://23.111.165.178/ibabytv.m3u8?user=310612&token=0837dc01d0e7f2aead1cd879f1eda4fb&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",211 - Boomerang
+http://23.111.165.178/iboomerang.m3u8?user=310612&token=f33cac4a696f508b7ad1a203e055909a&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",212 - Disney XD
+http://23.111.165.178/idisneyxd.m3u8?user=310612&token=6f4884f18ebf9cd5fd6e54df2667ce2f&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",213 - Disney Junior
+http://23.111.165.178/idisneyjr.m3u8?user=310612&token=512b427a47a6a71afa6bcbb5f94bcdfb&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",214 - Tooncast
+http://23.111.165.178/itooncast.m3u8?user=310612&token=90fbbb0d72428d58a32e9cb6785fe419&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",215 - TV Rá Tim Bum!
+http://23.111.165.178/iratimbum.m3u8?user=310612&token=8db3eb0e973ee45186f086aee68c62aa&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",216 - Globo News HD
+http://23.111.162.2/nglobonewshd.m3u8?user=310612&token=cc0bef3a407846ee7883bf77a458add7&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",217 - Globo News
+http://23.111.165.178/nglobonews.m3u8?user=310612&token=a8c7231e18ca052e1824ce93fd8f5d6c&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",218 - Bandnews
+http://23.111.165.178/nbandnews.m3u8?user=310612&token=f44a37894628138a1220170bd44d24e7&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",219 - Record News
+http://23.111.165.178/nrecordnews.m3u8?user=310612&token=87e153f14a4186a93eab08f70c68732f&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",220 - ABC News
+http://23.111.165.178/nabcnews.m3u8?user=310612&token=b31e77b572d5d51bdafecfe2dc132eea&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",221 - TV Aparecida
+http://23.111.165.178/rtvaparecida.m3u8?user=310612&token=dc4468a6bf3a1c6056b5ddd5c1de5b9d&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",222 - Canção Nova
+http://23.111.165.178/rcancaonova.m3u8?user=310612&token=19afddc265a2b49897fd641f5dec986e&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",223 - Ideal TV
+http://23.111.165.178/ridealtv.m3u8?user=310612&token=5dbcb9523c4d0bb82a354a31ee09129c&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",224 - Novo Tempo
+http://23.111.165.178/rnovotempo.m3u8?user=310612&token=e6ac96fe1c7b129bcb3c3923dd33ab68&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",225 - RBI
+http://23.111.165.178/rrbi.m3u8?user=310612&token=c662066260810aaaca7c67368fe972c1&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",226 - RIT TV
+http://23.111.165.178/rrittv.m3u8?user=310612&token=e0554876697cb0494807c581f763b47c&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",227 - Rede Vida
+http://23.111.165.178/rredevida.m3u8?user=310612&token=1bbb80c92a9fc226824df3ef6c50a56e&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",228 - NHK World
+http://23.111.165.178/inhk.m3u8?user=310612&token=dec642a968f61e34acfcb2331ddd59ad&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",229 - Sic Internacional
+http://23.111.165.178/isicinternacional.m3u8?user=310612&token=df976ed8c691d055d37925dda116fa68&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",230 - TVE Internacional
+http://23.111.165.178/itveint.m3u8?user=310612&token=0009d17fe86599c619740ffa354551ad&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",231 - Playboy HD
+http://23.111.162.2/pplayboyhd.m3u8?user=310612&token=65947ccd0329e9ec853ffce07c37cfbb&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",232 - Playboy TV
+http://23.111.165.178/pplayboy.m3u8?user=310612&token=09cd39c2bc2ea01a37a155a7f95b3bd9&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",233 - Sextreme
+http://23.111.165.178/psextreme.m3u8?user=310612&token=3ae0d13f451312dc328a43205e0ad63d&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",234 - Sexy Hot
+http://23.111.165.178/psexyhot.m3u8?user=310612&token=879d8a5629183a000ba439102fa528ca&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",235 - Venus
+http://23.111.165.178/pvenus.m3u8?user=310612&token=650b4a75818224b4cbeba401b2047c48&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",236 - Sexy Hot HD
+http://23.111.162.2/psexyhothd.m3u8?user=310612&token=bf263b101444f86873e0244041a057a6&e=1545775929&bands=956
+#EXTINF:0 tvg-id="ext" group-title="Channels",237 - France 24
+http://23.111.165.178/nfrance24.m3u8?user=310612&token=13f0081936d5784c6baf9044cc341c3a&e=1545775929&bands=956
