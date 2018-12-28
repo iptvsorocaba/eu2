@@ -399,7 +399,7 @@ http://23.111.165.178/icartoonnetwork.m3u8?user=310612&token=698fdbdbc570a1722b8
 http://23.111.162.2/idkidshd.m3u8?user=310612&token=b6800a5a60fc171de3ccd073fdad573b&e=1546009095&bands=956
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="INFANTIL",Discovery Kids
 http://23.111.165.178/idiscoverykids.m3u8?user=310612&token=41a725cc967b072b047943dee3f918d9&e=1546009095&bands=956
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/disneyprincesas/images/6/6d/Disney_Channel_Logo_.png/revision/latest?cb=20160721005930&path-prefix=pt-br" group-title="INFANTIL",Disney Channel HD
+#EXTINF:-1 tvg-logo="https://toppng.com/public/uploads/preview/disney-logo-11530965441h3dubhchrf.png" group-title="INFANTIL",Disney Channel HD
 http://23.111.162.2/idisneychannelhd.m3u8?user=310612&token=a61acb95173aec356d0ea787b075fbc6&e=1546009095&bands=956
 #EXTINF:-1 tvg-logo="https://toppng.com/public/uploads/preview/disney-logo-11530965441h3dubhchrf.png" group-title="INFANTIL",Disney
 http://23.111.165.178/idisney.m3u8?user=310612&token=cd34e51a42caa4aed7f24fd99e94cd50&e=1546009095&bands=956
