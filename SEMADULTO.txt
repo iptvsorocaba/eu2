@@ -461,15 +461,4 @@ http://23.111.165.178/inhk.m3u8?user=310612&token=faf1705bf209525aad8d977524f553
 http://23.111.165.178/isicinternacional.m3u8?user=310612&token=9f20559833e2a6cd05fe88fb43d7e3dd&e=1546009095&bands=956
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_TVE-Internacional.svg" group-title="VARIEDADES",TVE Internacional
 http://23.111.165.178/itveint.m3u8?user=310612&token=605f656f9a39ae65f98fb49bd8692519&e=1546009095&bands=956
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/playboy-logo.png" group-title="ADULTO",Playboy HD
-http://23.111.162.2/pplayboyhd.m3u8?user=310612&token=f7bdd57fc9c8e78b80074b7ba428e8d0&e=1546009095&bands=956
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/playboy-logo.png" group-title="ADULTO",Playboy TV
-http://23.111.165.178/pplayboy.m3u8?user=310612&token=e014c453e6b8cc706556f43d0f41a42a&e=1546009095&bands=956
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/03/Supreme_logo.jpg" group-title="ADULTO",Sreme
-http://23.111.165.178/psreme.m3u8?user=310612&token=607047138ae24ee26f097097e37f63fc&e=1546009095&bands=956
-#EXTINF:-1 tvg-logo="http://www.mgconecta.com.br/wp-content/uploads/2016/05/Sexy-Hot.png" group-title="ADULTO",Sexy Hot
-http://23.111.165.178/psexyhot.m3u8?user=310612&token=e0d18c00f033e140cb1b2fba103c2b63&e=1546009095&bands=956
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png" group-title="ADULTO",Venus
-http://23.111.165.178/pvenus.m3u8?user=310612&token=a9e32b085caa80d7b42f4f0908179a20&e=1546009095&bands=956
-#EXTINF:-1 tvg-logo="http://www.mgconecta.com.br/wp-content/uploads/2016/05/Sexy-Hot.png" group-title="ADULTO",Sexy Hot HD
-http://23.111.162.2/psexyhothd.m3u8?user=310612&token=21e1317733cf984b52fd90ef8c9086e1&e=1546009095&bands=956
+
