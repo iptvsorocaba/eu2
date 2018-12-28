@@ -5,7 +5,7 @@ http://23.111.162.2/aglobospso.m3u8?user=310612&token=218e1c345a7024e327b9e7fc02
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/chunklist_w2073186402.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="GLOBO",Globo RJ HD
 http://23.111.162.2/aglobohd2.m3u8?user=310612&token=442bdacc069863f0c8f668999f1a046f&e=1546009095&bands=956
-#EXTINF:-1 tvg-id="Globorj.br" group-title="GLOBO",Globo RJ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="GLOBO",Globo RJ
 http://23.111.162.2/agloborj.m3u8?user=310612&token=72b276f570c1e062d44a919adab839c3&e=1546009095&bands=956
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="GLOBO",Globo SP
 http://23.111.162.2/aglobo.m3u8?user=310612&token=64b2be63d65400ef761c57616a4b17fe&e=1546009095&bands=956
